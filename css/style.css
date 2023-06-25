@@ -151,9 +151,9 @@ ul{
     position: relative;
     text-transform: uppercase;
     z-index: 9;
-    background: #EC1C23;
+    background: #1a7ba7;
 }
-.default-btn:hover {color: #EC1C23; background: #fff}
+.default-btn:hover {color: #1a7ba7; background: #fff}
 
 .banner-btn span {
     transition: all 0.3s ease 0s;
@@ -2277,13 +2277,13 @@ textarea {
     color: #ffffff;
 }
 #scrollUp {
-    background: #EC1C23 none repeat scroll 0 0;
+    background: #1a7ba7 none repeat scroll 0 0;
 }
 /*----------------------------------------*/ 
 /*  12. Footer CSS
 /*----------------------------------------*/
 .main-footer {
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     padding-top: 50px;
 }
 .footer-area.three .main-footer {
@@ -2359,8 +2359,8 @@ textarea {
     color: #c7c7c7;
 }
 .footer-social ul li:hover a, .footer-area.two .footer-social ul li:hover a{
-    border: 1px solid #EC1C23;
-    background: #EC1C23;
+    border: 1px solid #1a7ba7;
+    background: #1a7ba7;
     color: #fff;
 }
 .single-widget ul li:last-child{
@@ -2470,7 +2470,7 @@ textarea {
     text-transform: uppercase;
 }
 .about-content h2 span{
-    color: #ec1c23;
+    color: #1a7ba7
 }
 .about-content p{
     font-size: 14px;
