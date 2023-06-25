@@ -152,7 +152,7 @@
     .teacher-details-content ul li span{font-size: 12px}
     .reply-area form input, .reply-area form textarea {margin-bottom: 13px}
     .notice-left {height: 682px}
-    .logo {width: 100%}
+    .logo {width: 200%}
     .footer-area.two.ins > .main-footer > .container > .row > [class*="col-"]:nth-child(even) {clear: both}
     .single-widget.instagram a.gap{margin-right: 15px}
 }
@@ -163,9 +163,9 @@
     .one.mobile-menu a.meanmenu-reveal {margin-top: -55px}
     .mean-container a.meanmenu-reveal {margin-top: -62px}
     .search-btn {top: 38px}
-    .logo {padding: 35px 0 0px}
+    .logo {padding: 25px 40px}
     .slide-content h3, .choose-content h2 {font-size: 24px; line-height: 32px}
-    .slide-content h3 {padding-top: 90px}
+    .slide-content h3 {padding-top: 175px}
     .slide-content h2 {font-size: 24px; line-height: 30px}
     .notice-area, .courses-area, .event-area, .blog-area, .main-footer, .service-area, .about-area, .blog-details-area, .course-area, .teacher-area, .contact-area {padding: 80px 0}
     .notice-left h3 {font-size: 24px; margin-bottom: 25px}
@@ -251,7 +251,7 @@
     .one .event-content.text-start{text-align: center}
     .one .single-event {padding-top: 25px}
     .notice-area.three{padding-top: 0}
-    .logo{ width: 100%;}
+    .logo{ width: 70%;}
     .blog-details-content h2 {font-size: 18px}
     .header-area.two.sticky .logo {width: 90%}
     .testimonial-content {padding: 0 30px}

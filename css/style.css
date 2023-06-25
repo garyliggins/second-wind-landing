@@ -532,18 +532,18 @@ textarea {
 /*----------------------------------------*/
 .logo a {display: inline-block}
 .logo{
-    padding: 60px 0 23px;
-/*    width: 60%;*/
+    
+   /* width: 60%; */
     -webkit-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
 }
 .header-area.two .logo {
-    padding: 40px 0 33px;
+    padding: 10px 0 33px;
 }
 .header-area.two.sticky .logo {
-    padding: 15px 0  7px;
-    width:60%;
+    padding: 40px 0 55px;
+    width:40%;
     -webkit-transition: all 0.6s ease 0s;
     -o-transition: all 0.6s ease 0s;
     transition: all 0.6s ease 0s;
@@ -568,11 +568,11 @@ textarea {
     background: transparent none repeat scroll 0 0;
 }
 .fixed {
-  left: 0;
-  position: absolute;
-  width: 100%;
-  z-index: 99;
-}
+    left: 0;
+    position: absolute;
+    width: 100%;
+    z-index: 99;
+  }
 .main-menu{display: inline-block}
 .main-menu ul li {
     display: inline-block;
